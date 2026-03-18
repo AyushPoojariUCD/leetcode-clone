@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://leetcode.com"),
 
   openGraph: {
-    title: "LeetCode – Coding Interview Preparation",
+    title: "LeetCode - Coding Interview Preparation",
     description:
       "Solve algorithm problems, practice data structures, and prepare for technical interviews.",
     url: "https://leetcode.com",
